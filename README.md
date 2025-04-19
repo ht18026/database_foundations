@@ -1,2 +1,2 @@
 # database_foundations
-This task is the final assignment of unit database foundations that go through all database foundational utitilities, using SQL and mongoDB.
+This task is the final assignment of the unit Database Foundations that goes through all database foundational utitilities, using SQL and mongoDB.
